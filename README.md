@@ -58,4 +58,4 @@ Supports **multiple warehouses** and generates **centralized inventory reports**
 
 ### 1️⃣ Compile
 ```bash
-javac WareHouse.java
+javac Warehouse.java
